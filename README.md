@@ -8,8 +8,8 @@
 
 #### START
 <pre>
-You come across a cabin in the woods.
-A creaking sound can be heard coming from inside.
+You come across a cabin in the woods. A creaking sound can be heard coming
+from inside.
                             ____
                _           |---||            _
                ||__________|   ||___________||
@@ -39,9 +39,9 @@ A creaking sound can be heard coming from inside.
 
 #### Arson it is.
 <pre>
-You light a match and toss it towards the cabin.
-The flames quickly catch and begin to devour the wooden structure.
-The crackling of the fire is oddly satisfying as you watch the cabin burn to the ground.
+You light a match and toss it towards the cabin. The flames quickly catch and begin
+to devour the wooden structure. The crackling of the fire is oddly satisfying as
+you watch the cabin burn to the ground.
 </pre>
 [🥾](#explore-the-forest-around-you) Explore the forest around you.
 
