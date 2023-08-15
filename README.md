@@ -3,7 +3,7 @@
   <br>
   A game entirely contained in a Github README.md
   <br>
-  To add your own section, visit CONTRIBUTION.md
+  To add your own section, visit CONTRIBUTING.md
 </p>
 
 #### START
